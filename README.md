@@ -1,6 +1,6 @@
 # Synapses
 
-A **neural networks** library for **CSharp**!
+A **neural networks** library for **C#**!
 
 ```csharp
 // run
